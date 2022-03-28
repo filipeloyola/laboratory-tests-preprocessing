@@ -11,7 +11,7 @@ File containing filters steeps to preprocessing. Patients were labeled according
 
 - GROUP_1 - patients with exams from the emergency room and hospitalization (NO_SEVERE);
 
-- GROUP_2 - patients with exams from the emergency room and ICU (SEVERE).
+- GROUP_2 - patients with exams from the emergency room and ICU (SEVERE);
 
 - GROUP_3 - patients with exams from the emergency room, hospitalization and ICU (SEVERE).
 
