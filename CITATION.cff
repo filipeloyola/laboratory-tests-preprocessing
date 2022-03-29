@@ -4,6 +4,9 @@ authors:
 - family-names: "Lopes"
   given-names: "Filipe Loyola"
   orcid: "https://orcid.org/0000-0002-4172-6532"
+- family-names: "Lorena"
+  given-names: "Ana Carolina"
+  orcid: "https://orcid.org/0000-0002-6140-571X"
 title: "Laboratory tests preprocessing"
 version: 0.1.0
 doi: 10.5281/zenodo.6392307
