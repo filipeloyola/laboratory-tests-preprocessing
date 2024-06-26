@@ -8,7 +8,7 @@ Preprocessing laboratory tests results data by COVID-19 patients from Hospital S
 This work used original data from COVID-19 Data Sharing/BR FAPESP, available at https://repositoriodatasharingfapesp.uspdigital.usp.br/, referent to Sirio Libanes hospital from Sao Paulo, Brazil. 
 
 ## Jupyter Notebook
-File containing filters steeps to preprocessing. Patients were labeled according to the origin of laboraty tests, as shown below:
+File containing filters steps to preprocessing. Patients were labeled according to the origin of laboraty tests, as shown below:
 
 - GROUP_0 - patients with exams coming only from the emergency room (NO_SEVERE);
 
