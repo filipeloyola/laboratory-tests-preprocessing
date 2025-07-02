@@ -19,4 +19,10 @@ File containing filters steps to preprocessing. Patients were labeled according 
 - GROUP_3 - patients with exams from the emergency room, hospitalization and ICU (SEVERE).
 
 ## .csv file
-Contains the data resulted from preprocessing described in the notebook.
+Contains the data resulted from preprocessing described in the notebook. Below are the main characteristics of the output dataset:
+File name: sirio_aprendizado_v3.csv
+Missing rate: 13.2%
+Instances: 4320
+Classes: 2 (SEVERE and NO_SEVERE)
+Features categorical: 2
+Features continous: 2
