@@ -1,4 +1,4 @@
-# laboratory-tests-preprocessing-
+# laboratory-tests-preprocessing
 
 [![DOI](https://zenodo.org/badge/475143794.svg)](https://zenodo.org/badge/latestdoi/475143794)
 
